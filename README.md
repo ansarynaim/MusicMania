@@ -21,6 +21,8 @@ A fully phone responsive with a good user UI and UX.
   
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (33)](https://user-images.githubusercontent.com/42023583/140034802-24530089-8aaf-4f79-85df-5f106a21d28a.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/42023583/140034818-de6f798e-eca7-4ea8-821b-98592ac87f1a.png)
+
 
   
